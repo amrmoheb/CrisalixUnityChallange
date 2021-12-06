@@ -5,8 +5,10 @@ Unty version:
 
 Platform: 
 -android
+
 Presentation: 
 -portrait
+
 Architecture: 
 -Viper architecture pattern 
 
