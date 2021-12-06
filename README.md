@@ -1,16 +1,20 @@
 # CrisalixUnityChallange
 
 Unty version: 
--2020.3.18f1
+
+2020.3.18f1
 
 Platform: 
--android
+
+android
 
 Presentation: 
--portrait
+
+portrait
 
 Architecture: 
--Viper architecture pattern 
+
+Viper architecture pattern 
 
 To get the right Ui experiance: 
 - switch unity plaform to android
